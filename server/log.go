@@ -8,9 +8,9 @@ import (
 	"time"
 
 	"github.com/fujiwara/fluent-agent-hydra/ltsv"
-	"github.com/mercari/widebullet"
-	"github.com/mercari/widebullet/jsonrpc"
-	"github.com/mercari/widebullet/wlog"
+	"github.com/kuntao/widebullet"
+	"github.com/kuntao/widebullet/jsonrpc"
+	"github.com/kuntao/widebullet/wlog"
 )
 
 func accessLog(r *http.Request, rr *[]jsonrpc.Request, stime time.Time, status int) {

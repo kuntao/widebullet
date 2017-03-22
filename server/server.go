@@ -12,10 +12,10 @@ import (
 
 	statsGo "github.com/fukata/golang-stats-api-handler"
 	"github.com/lestrrat/go-server-starter/listener"
-	"github.com/mercari/widebullet"
-	"github.com/mercari/widebullet/config"
-	"github.com/mercari/widebullet/jsonrpc"
-	"github.com/mercari/widebullet/wlog"
+	"github.com/kuntao/widebullet"
+	"github.com/kuntao/widebullet/config"
+	"github.com/kuntao/widebullet/jsonrpc"
+	"github.com/kuntao/widebullet/wlog"
 )
 
 var (

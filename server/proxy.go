@@ -6,8 +6,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/mercari/widebullet/jsonrpc"
-	"github.com/mercari/widebullet/wlog"
+	"github.com/kuntao/widebullet/jsonrpc"
+	"github.com/kuntao/widebullet/wlog"
 )
 
 func sendHttpRequest(wg *sync.WaitGroup, reqj jsonrpc.Request, forwardHeaders *http.Header, respj *jsonrpc.Response) {

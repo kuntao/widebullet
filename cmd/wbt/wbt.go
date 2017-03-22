@@ -10,10 +10,10 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/mercari/widebullet"
-	"github.com/mercari/widebullet/config"
-	"github.com/mercari/widebullet/server"
-	"github.com/mercari/widebullet/wlog"
+	"github.com/kuntao/widebullet"
+	"github.com/kuntao/widebullet/config"
+	"github.com/kuntao/widebullet/server"
+	"github.com/kuntao/widebullet/wlog"
 )
 
 func main() {

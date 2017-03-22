@@ -7,9 +7,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/mercari/widebullet"
-	"github.com/mercari/widebullet/config"
-	"github.com/mercari/widebullet/jsonrpc"
+	"github.com/kuntao/widebullet"
+	"github.com/kuntao/widebullet/config"
+	"github.com/kuntao/widebullet/jsonrpc"
 	"github.com/stretchr/testify/assert"
 )
 

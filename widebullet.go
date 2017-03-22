@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"runtime"
 
-	"github.com/mercari/widebullet/config"
-	"github.com/mercari/widebullet/wlog"
+	"github.com/kuntao/widebullet/config"
+	"github.com/kuntao/widebullet/wlog"
 )
 
 const (
